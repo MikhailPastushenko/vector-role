@@ -9,7 +9,7 @@ Role Variables
 
 Вы можете поменять версию пакета vector
 
-# defaults file for vector-role
+defaults file for vector-role
 vector_version: "0.15.0"
 
 
